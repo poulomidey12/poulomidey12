@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @poulomidey12
-- 👀 I’m interested in Security
+- 👋 Hi, I’m Neptune
+- 👀 I’m interested in Security & Coding
 - 🌱 I’m currently learning Game Development
-- 💞️ I’m looking to collaborate on Bugcrowd
+- 💞️ I’m looking to collaborate on Bugcrowd, HackerOne & other bug-hunting platforms
 - 📫 How to reach me: poulomidey614@gmail.com
 
 <!---
